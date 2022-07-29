@@ -1,3 +1,9 @@
+#!/usr/bin/env python3
+"""
+Author: Rudi César Comiotto Modena
+Email: rudi.modena@gmail.com
+"""
+
 import matplotlib.pyplot as plt
 import pandas as pd
 import seaborn as sns
